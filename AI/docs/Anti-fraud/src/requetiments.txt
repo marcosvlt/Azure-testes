@@ -1,0 +1,6 @@
+azure.core
+azure-ai-documentintelligence
+streamlit
+azure-storage-blob
+python-dotenv
+azure-ai-formrecognizer 
